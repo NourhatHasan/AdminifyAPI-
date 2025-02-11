@@ -1,0 +1,14 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+.vscode/
+*.user
+*.db
+
+# Configuration files
+appsettings.json
+
+# Visual Studio specific
+.vs/
